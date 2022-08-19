@@ -1,4 +1,6 @@
 #bash
+# just to automate mundane stuff!
+
 
 source test-env/bin/activate
 
